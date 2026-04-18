@@ -3,6 +3,7 @@
 🔐 Aspiring SOC Analyst | Cybersecurity Learner
 
 🚀 About Me
+
 🎯 Learning: SIEM, SOC Operations
 🧪 Practicing: Hands-on SIEM Labs
 💻 Tools: Splunk, ELK, Linux
