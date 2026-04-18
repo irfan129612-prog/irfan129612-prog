@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Irfan Ahmed
 
-<!--
-**irfan129612-prog/irfan129612-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst | Cybersecurity Learner
 
-Here are some ideas to get you started:
+🚀 About Me
+🎯 Learning: SIEM, SOC Operations
+🧪 Practicing: Hands-on SIEM Labs
+💻 Tools: Splunk, ELK, Linux
+🔍 Goal: Become a SOC Analyst
+🛠️ Skills
+Log Analysis
+SIEM Tools
+Linux Commands
+Networking Basics
+Git & GitHub
+📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 SIEM Labs (Coming Soon)
+
+📫 Contact
+LinkedIn: (https://www.linkedin.com/in/irfan1296/)
+Email: (irfan129612@gmail.com)
+
+⚡ Goal
+✔ Build strong cybersecurity portfolio
+✔ Land SOC Analyst role
